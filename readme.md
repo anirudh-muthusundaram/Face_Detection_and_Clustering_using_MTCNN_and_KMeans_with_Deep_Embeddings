@@ -6,7 +6,7 @@ This model implements an automated pipeline for face detection, embedding genera
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/anirudh-muthusundaram/your-repo-name.git
+   git clone https://github.com/anirudhmuthusundaram/Face_Detection_and_Clustering_using_MTCNN_and_KMeans_with_Deep_Embeddings.git
    cd your-repo-name
 
 2. **Create and Activate a Virtual Environment (Windows)**:
